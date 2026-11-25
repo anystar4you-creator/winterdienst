@@ -1,0 +1,1 @@
+Diese Dateien gehören in das Hauptverzeichnis (root) des GitHub-Repositorys winterdienst. index.html ersetzt die bisherige Datei. icon-192.png, icon-512.png und manifest.webmanifest zusätzlich hochladen. Danach GitHub Pages kurz neu veröffentlichen lassen und die alte Startbildschirm-Verknüpfung entfernen und neu hinzufügen.
